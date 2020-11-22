@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a hackathon project with a developer friend. It's a viking themed quiz app that's made with flutter.
 - 🌱 I’m currently learning backend for app development.
 - 👯 I’m looking to collaborate on more hackathon projects!!
-<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+
 
 💬 Ask me about my wellness app. Hoping to release on Google Play Store by 2021!
 <img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />
@@ -72,19 +72,21 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I have dual citizenship. 50 points if you can guess the countries!
-- 💻 Here are some projects I've been working on!👇👇👇
+- 💻 What I've been up to lately👇👇👇
 
 ---
 
 [Quiz App](https://github.com/thinklikeadesigner/viking_quiz)
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 
 ---
 
 [Wellness app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app)
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />
 
 ---
 
@@ -106,7 +108,7 @@ Here are some ideas to get you started:
 ---
 
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />
+
     <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
         <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />
