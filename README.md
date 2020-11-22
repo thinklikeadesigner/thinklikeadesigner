@@ -71,11 +71,12 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+
 
  [Quiz App](https://github.com/thinklikeadesigner/viking_quiz)
  
 [wellness app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app)
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 
 ---
 
@@ -86,6 +87,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 ---
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
-[portfolio](https://rebecca-portfolio-firebase.firebaseapp.com/)
 
+[portfolio](https://rebecca-portfolio-firebase.firebaseapp.com/)
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
