@@ -116,8 +116,10 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 <!--    <img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" /> -->
 <!-- </p> -->
 
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)--> <details>
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)--> 
 # More details
+
+Not to brag, but I have a 4.0 in Github 👇👇👇
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
