@@ -67,7 +67,10 @@
 
 
 
-<p align='center'>📫 Contact me!</p>
+<p align='center'>📫 Contact me or
+<a href="https://rebecca-portfolio-firebase.firebaseapp.com/"> 📝 Check out my Portfolio! </a>
+
+</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/rebecca-burch/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
