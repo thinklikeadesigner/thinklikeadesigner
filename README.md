@@ -16,6 +16,9 @@ Here are some ideas to get you started:
  [Quiz App](https://github.com/thinklikeadesigner/viking_quiz)
  
  ![quiz app](https://github.com/thinklikeadesigner/viking_quiz/blob/main/assets/smallerquiz.png)
+ 
+ 
+ 
 [wellness app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app) 
 
 ![duolyfe app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app/blob/main/assets/newduo.png)
