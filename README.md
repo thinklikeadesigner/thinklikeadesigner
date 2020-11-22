@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>&nbsp;&nbsp;-->
 
-<p align='center'>
+<!-- <p align='center'> -->
 <!--    <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" /> -->
 <!--    <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> -->
 <!--    <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /> -->
@@ -26,7 +26,7 @@
 <!--    <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" /> -->
 <!--    <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> -->
 <!--    <img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" /> -->
-</p>
+<!-- </p> -->
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)-->
 
@@ -86,13 +86,17 @@
 </p>
 
 
+
+<details>
+	
+	
 - 🔭 I’m currently working on a hackathon project with a developer friend. It's a viking themed quiz app that's made with flutter.
 - 🌱 I’m currently learning backend for app development.
 - 👯 I’m looking to collaborate on more hackathon projects!!
 - 💬 Ask me about my wellness app. Hoping to release on Google Play Store by 2021!
 - 😄 Pronouns: (she/her)
-- ⚡ Fun fact: I have dual citizenship. 50 points if you can guess the countries!
-<details>
+- ⚡ Fun fact: I have dual citizenship. 50 points if you can guess the countries!	
+	
 	
 # Other Skills	
 
