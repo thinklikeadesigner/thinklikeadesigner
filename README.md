@@ -29,6 +29,8 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 <p align='center' style="font-size: 25px">
 📫 Contact me!
 	</p>
+	
+	
 
 </p>
 <p align='center'>
@@ -45,6 +47,8 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 
 <div style="height: 25px"></div><div style="height: 25px"></div>
 	
+
+<details>
 
 ## Knows 
 <div style="height: 25px"></div>
