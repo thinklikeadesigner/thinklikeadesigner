@@ -10,7 +10,7 @@
    <a href="https://twitter.com/thinkLikeADev">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-     <a href="rebecca.burch.stu@gmail.com">
+     <a href="mailto:rebecca.burch.stu@gmail.com">
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 <img src=https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge />
