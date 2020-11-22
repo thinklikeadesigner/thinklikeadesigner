@@ -1,17 +1,6 @@
 ### Hi there 👋
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/rebecca-burch/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/thinkLikeADev">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-     <a href="mailto:rebecca.burch.stu@gmail.com">
- <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
 
-</p>
 
    <!--<a href="https://dev.to/thinklikeadesigner">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
@@ -55,19 +44,7 @@ Here are some ideas to get you started:
 💬 Ask me about my wellness app. Hoping to release on Google Play Store by 2021!
 <img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />
 
-<p align='center'>📫 Contact me!</p>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/rebecca-burch/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/thinkLikeADev">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-     <a href="mailto:rebecca.burch.stu@gmail.com">
- <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
 
-</p>
 
 
 - 😄 Pronouns: (she/her)
@@ -105,6 +82,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 ---
+
+<p align='center'>📫 Contact me!</p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/rebecca-burch/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/thinkLikeADev">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+     <a href="mailto:rebecca.burch.stu@gmail.com">
+ <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+
+</p>
+
 <details>
 	
 # Other Skills	
