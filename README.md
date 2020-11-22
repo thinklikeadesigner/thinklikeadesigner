@@ -7,12 +7,7 @@
 </p>
 
 
-
-
-
-
-
-
+I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a career in Tech! I've never tagged myself as much of a creative type, but coding and developing apps has really opened my mind to the possibilities. I love to solve challenging problems, and my friends like to joke that they have to drag me away from the computer! 
 
 
 <!-- [Wellness app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app)
@@ -121,4 +116,4 @@
 <!--    <img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" /> -->
 <!-- </p> -->
 
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)-->
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)--> <details>
