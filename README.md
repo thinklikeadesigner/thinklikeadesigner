@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
  [Quiz App](https://github.com/thinklikeadesigner/viking_quiz)
  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-
+---
  
 [Wellness app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app)
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -94,3 +94,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+---
