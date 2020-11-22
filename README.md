@@ -109,7 +109,7 @@ I use these platforms to collaborate remotely
 <div style="height: 25px"></div>
 
 
-If Github was a class, I'd have a 4.0 👇👇👇
+<p align='center'>If Github was a class, I'd have a 4.0 👇👇👇</p>
 <div style="height: 25px"></div><div style="height: 25px"></div><div style="height: 25px"></div>
 
 <p align='center'>
