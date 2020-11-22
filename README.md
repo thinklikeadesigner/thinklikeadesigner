@@ -81,9 +81,8 @@
      <a href="mailto:rebecca.burch.stu@gmail.com">
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-
-<a href="https://rebecca-portfolio-firebase.firebaseapp.com/"> 📝 Check out my Portfolio </a>
 </p>
+
 
 
 
@@ -116,3 +115,7 @@
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />
+
+<p align='center'>
+<a href="https://rebecca-portfolio-firebase.firebaseapp.com/"> 📝 Check out my Portfolio here! </a>
+</p>
