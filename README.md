@@ -62,6 +62,8 @@
 
 --- -->
 
+- 📝 Check out my Portfolio
+
 [Portfolio](https://rebecca-portfolio-firebase.firebaseapp.com/)
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
