@@ -57,7 +57,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
 </p>
 
-  <details>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a hackathon project with a developer friend. It's a viking themed quiz app that's made with flutter.
@@ -79,10 +79,13 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
+
+
+[Single page app](https://thinklikeadesigner.github.io/portfolio-web/)
+<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
-
+---
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
 [portfolio](https://rebecca-portfolio-firebase.firebaseapp.com/)
 
