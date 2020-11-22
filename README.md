@@ -10,6 +10,12 @@
    <a href="https://twitter.com/thinkLikeADev">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
+     <a href="rebecca.burch.stu@gmail.com">
+ <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+<img src=https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge />
+<img src=https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white />
+<img src=https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white />
  
    <!--<a href="https://dev.to/thinklikeadesigner">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
@@ -20,10 +26,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-<img src=https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge />
-<img src=https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white />
-<img src=https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white />
+
 <img src=https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge />
 <img src=https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white />
 <img src=https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge />
