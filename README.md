@@ -34,21 +34,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
 </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a hackathon project with a developer friend. It's a viking themed quiz app that's made with flutter.
-- 🌱 I’m currently learning backend for app development.
-- 👯 I’m looking to collaborate on more hackathon projects!!
-
-
-💬 Ask me about my wellness app. Hoping to release on Google Play Store by 2021!
-<img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />
 
 
 
-
-- 😄 Pronouns: (she/her)
-- ⚡ Fun fact: I have dual citizenship. 50 points if you can guess the countries!
 - 💻 What I've been up to lately👇👇👇
 
 ---
@@ -97,6 +85,13 @@ Here are some ideas to get you started:
 
 </p>
 
+
+- 🔭 I’m currently working on a hackathon project with a developer friend. It's a viking themed quiz app that's made with flutter.
+- 🌱 I’m currently learning backend for app development.
+- 👯 I’m looking to collaborate on more hackathon projects!!
+- 💬 Ask me about my wellness app. Hoping to release on Google Play Store by 2021!
+- 😄 Pronouns: (she/her)
+- ⚡ Fun fact: I have dual citizenship. 50 points if you can guess the countries!
 <details>
 	
 # Other Skills	
@@ -110,3 +105,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />
