@@ -21,7 +21,15 @@
   
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)
+
+  
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)-->
+  
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
+</p>
 
 
 Here are some ideas to get you started:
