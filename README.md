@@ -62,14 +62,8 @@
 
 --- -->
 
-- 📝 Check out my Portfolio
 
-[Portfolio](https://rebecca-portfolio-firebase.firebaseapp.com/)
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
-<img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
 
 
 
@@ -85,7 +79,10 @@
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 
+<a href="https://rebecca-portfolio-firebase.firebaseapp.com/"> 📝 Check out my Portfolio </a>
 </p>
+
+
 
 
 
@@ -101,7 +98,11 @@
 	
 	
 # Other Skills	
-
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
+<img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
