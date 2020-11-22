@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 [Portfolio](https://rebecca-portfolio-firebase.firebaseapp.com/)![Live Demo Screenshot](https://github.com/thinklikeadesigner/rebecca-burch-portfolio-website/blob/master/src/images/livedemopic.png)
  [Quiz App](https://github.com/thinklikeadesigner/viking_quiz) ![quiz app](https://github.com/thinklikeadesigner/viking_quiz/blob/main/assets/smallerquiz.png)
-[wellness app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app) ![duolyfe app](![duolyfe screenshot](https://github.com/thinklikeadesigner/Duolyfe_flutter_app/blob/main/assets/Screen%20Shot%202020-11-19%20at%209.04.28%20PM.png))
+[wellness app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app) ![duolyfe app](https://github.com/thinklikeadesigner/Duolyfe_flutter_app/blob/main/assets/newduo.png)
 
 [instagram clone](https://thinklikeadesigner.github.io/web_project_9/)![instagram clone](https://github.com/thinklikeadesigner/web_project_9/blob/master/src/images/Screen%20Shot%202020-11-21%20at%2011.38.32%20PM.png)
 
