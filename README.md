@@ -2,9 +2,7 @@
 
 
 # I'm Rebecca! 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
-</p>
+
 
 
 I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a career in Tech! I've never tagged myself as much of a creative type, but coding and developing apps has really opened my mind to the possibilities. I love to solve challenging problems, and my friends like to joke that they have to drag me away from the computer! 
@@ -117,3 +115,8 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 <!-- </p> -->
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)--> <details>
+# More details
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
+</p>
