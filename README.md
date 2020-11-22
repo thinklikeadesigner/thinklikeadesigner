@@ -118,8 +118,7 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true)](https://github.com/thinklikeadesigner/github-readme-stats)--> 
 # More details
-
-Not to brag, but I have a 4.0 in Github 👇👇👇
+If Github was a class, I'd have a 4.0 👇👇👇
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
