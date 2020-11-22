@@ -41,7 +41,7 @@
 
 
 
-[- 💻 What I've been up to lately👇👇👇](https://github.com/thinklikeadesigner/viking_quiz)
+[- 💻 What I've been up to lately using 👉](https://github.com/thinklikeadesigner/viking_quiz)
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
