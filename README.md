@@ -11,9 +11,12 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
  
-   <---<a href="https://dev.to/thinklikeadesigner">
+   <!--<a href="https://dev.to/thinklikeadesigner">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>&nbsp;&nbsp;--->
+  </a>&nbsp;&nbsp;-->
+ 
+ 
+
  
   
 </p>
