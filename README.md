@@ -53,7 +53,7 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 ## Pretty confident in...
 <div style="height: 25px"></div>
 
-These are technologies that I have 15 or more projects with
+These are technologies that I have created 15 or more projects with
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -67,7 +67,7 @@ These are technologies that I have 15 or more projects with
 
 ## Confident with
 <div style="height: 25px"></div>
-These are some of the technologies that I have created 10 or more projects with
+These are technologies that I have created 10 or more projects with
 <div style="height: 25px"></div>
 
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
