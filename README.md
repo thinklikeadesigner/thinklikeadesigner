@@ -21,7 +21,7 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 - ⚡ Fun fact: I have dual citizenship. 50 points if you can guess the countries! 🌍
 
 
-- [ 💻 What I've been up to lately](https://github.com/thinklikeadesigner/viking_quiz)
+- [ 💻 What I've been up to lately](https://github.com/thinklikeadesigner/react-around-api-full)
 
 <div style="height: 25px"></div><div style="height: 25px"></div><div style="height: 25px"></div>
 
