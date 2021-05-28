@@ -16,9 +16,9 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 
 	
 #### A little bit more about me
-- 🔭 I’m currently working on a hackathon project with a friend. It's a viking-themed quiz app that's made with flutter.
-- 👯 I’m looking to collaborate on more hackathon projects!!
-- ⚡ Fun fact: I have dual citizenship. 50 points if you can guess the countries!	
+- 🔭 I’m currently working on an android app. It's a wellness app that's made with flutter!
+- 👯 I’m looking to collaborate on more hackathon projects 🤩
+- ⚡ Fun fact: I have dual citizenship. 50 points if you can guess the countries! 🌍
 
 
 - [ 💻 What I've been up to lately](https://github.com/thinklikeadesigner/viking_quiz)
