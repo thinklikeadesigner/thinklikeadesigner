@@ -47,11 +47,15 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
 
 <div style="height: 25px"></div><div style="height: 25px"></div>
 	
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
+</p>
+
 
 <details>
 
-## Pretty confident in...
-<div style="height: 25px"></div>
+<!-- ## Pretty confident in...
+<!-- <div style="height: 25px"></div>
 
 These are technologies that I have created 15 or more projects with
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -73,10 +77,10 @@ These are technologies that I have created 10 or more projects with
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> -->
 
 
-
+<!-- 
 <div style="height: 25px"></div><div style="height: 25px"></div>
 
 ## Learning
@@ -86,13 +90,13 @@ These are technologies that I have created 5 or more projects with
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
+<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> -->
 <!--  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" /> -->
 
 
 
-<div style="height: 25px"></div><div style="height: 25px"></div>
+<!-- <div style="height: 25px"></div><div style="height: 25px"></div>
 
 ## Collaborates with
 
@@ -102,12 +106,12 @@ I use these platforms to collaborate remotely
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-
+ -->
 
 <!-- <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> -->
 
 
-<div style="height: 25px"></div>
+<!-- <div style="height: 25px"></div>
 <div style="height: 25px"></div>
 
 
@@ -121,17 +125,14 @@ I use these platforms to collaborate remotely
 <div style="height: 25px"></div>
 
 ## Fun Stuff
-<div style="height: 25px"></div>
+<div style="height: 25px"></div> -->
 
 
-<p align='center'>If Github was a class, I'd have a 4.0 👇👇👇</p>
-<div style="height: 25px"></div><div style="height: 25px"></div><div style="height: 25px"></div>
+<!-- <p align='center'>If Github was a class, I'd have a 4.0 👇👇👇</p> -->
+<!-- <div style="height: 25px"></div><div style="height: 25px"></div><div style="height: 25px"></div> -->
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=slateorange&show_icons=true" width="350"></a>
-</p>
 
-<div style="height: 25px"></div>
+<!-- <div style="height: 25px"></div>
 
 <div style="height: 25px"></div>
 
@@ -164,7 +165,7 @@ Will eventually learn</p>
 
 </p>
 
-<div style="height: 25px"></div><div style="height: 25px"></div><div style="height: 25px"></div>
+<div style="height: 25px"></div><div style="height: 25px"></div><div style="height: 25px"></div> -->
 <!-- <img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" /> -->
 
 
