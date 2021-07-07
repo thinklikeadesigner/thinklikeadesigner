@@ -31,7 +31,7 @@ Shoot me a DM on 💼 [LinkedIn](https://www.linkedin.com/in/rebecca-burch/) or 
 
 
 
-## My Projects
+# My Projects
 
 [Duolyfe Flutter App](#duolyfe)
 
