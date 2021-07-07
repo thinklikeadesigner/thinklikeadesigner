@@ -67,7 +67,7 @@ It's like tamagotchi, but for well-being :)
 #### This news app allows you to save your articles all in one place!
 This project uses keywords to search a news API and users can save news articles to their account
 
-[Live Site ](https://thinklikeadesigner.github.io/news-explorer-frontend/)
+[Live Site ](https://morning-paper.netlify.app/main)
 
 [API Source code](https://github.com/thinklikeadesigner/news-explorer-api)
 
