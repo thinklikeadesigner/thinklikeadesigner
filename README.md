@@ -8,7 +8,7 @@ I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a 
  -->
 
 <p align='right'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=radical&show_icons=true&" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=vue-dark&show_icons=true&" width="550"></a>
 
 </p>
 
@@ -36,14 +36,14 @@ Shoot me a DM on 💼 [LinkedIn](https://www.linkedin.com/in/rebecca-burch/) or 
 [Duolyfe Flutter App](#duolyfe)
 
 
-### Duolyfe{#duolyfe}
+### Duolyfe
 #### Duolyfe is a wellness app that encourages users to slow down and take a break
 
 It's like tamagotchi, but for well-being :)
 <!-- 👉[**CASE STUDY**](https://www.prashantarya.com/duolyfe)👈  -->
-[Product Video](https://video.wixstatic.com/video/7fdafe_995f3a3f3b844b42b8bedfd18ab2d5c2/720p/mp4/file.mp4)
+The repo is private but you can [watch a video mockup](https://video.wixstatic.com/video/7fdafe_995f3a3f3b844b42b8bedfd18ab2d5c2/720p/mp4/file.mp4)
 <div display=flex flex-direction=row flex-wrap=wrap>
-<img height=400px src='https://static.wixstatic.com/media/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.png/v1/fill/w_847,h_827,al_c,q_90/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.webp' alt='picture of hand holding mobile phone' />
+<img  height=400px src='https://static.wixstatic.com/media/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.png/v1/fill/w_847,h_827,al_c,q_90/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.webp' alt='picture of hand holding mobile phone' />
 <div style="width: 20px;" ></div>
 <img height=400px src ="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4b0044ec-cc25-4367-985a-338f563fa3b4/Log_In.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210707%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210707T004724Z&X-Amz-Expires=86400&X-Amz-Signature=56e25444324ac3d871d719119cd022924f0e18a78d0cbce7053211070af3c1ca&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Log_In.png%22" />
 
