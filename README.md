@@ -37,7 +37,7 @@
 
 <br />
 
-## My Projects
+## Recent Projects
 
 
 <br />
