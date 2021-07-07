@@ -19,7 +19,7 @@
 
 <div style="height: 25px"></div><div style="height: 25px"></div>
 
-# Hi there 👋 I'm Rebecca! (she/her)
+### Hi there 👋 I'm Rebecca! (she/her)
 
 
 
