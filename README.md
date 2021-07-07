@@ -1,16 +1,37 @@
-#### Hi there 👋
 
-## I'm Rebecca! (she/her)
+	
+<!-- <p align='center' style="font-size: 25px">📫 Contact me!</p> -->
+	
+
+
+</p>
+<p align='right'>
+  <a href="https://www.linkedin.com/in/rebecca-burch/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/thinkLikeADev">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+     <a href="mailto:rebecca.burch.stu@gmail.com">
+ <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
+
+<div style="height: 25px"></div><div style="height: 25px"></div>
+
+# Hi there 👋 I'm Rebecca! (she/her)
+
+
 
 <!-- ### I'm Rebecca! (she/her)
 I'm a college grad with a B.S. in Biomedical Science, but I decided to pursue a career in Tech! I've never tagged myself as much of a creative type, but coding and developing apps has really opened my mind to the possibilities. I love to solve challenging problems, and my friends like to joke that they have to drag me away from the computer!
 
  -->
 
-<p align='right'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=vue-dark&show_icons=true&" width="550"></a>
+<!-- <p align='right'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thinklikeadesigner&theme=vue-dark&show_icons=true&" width="350"></a>
 
-</p>
+</p> -->
 
 <div style="height: 25px"></div>
 
