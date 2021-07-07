@@ -62,7 +62,7 @@ Shoot me a DM on 💼 [LinkedIn](https://www.linkedin.com/in/rebecca-burch/) or 
 
 It's like tamagotchi, but for well-being :)
 <!-- 👉[**CASE STUDY**](https://www.prashantarya.com/duolyfe)👈  -->
-The repo is private but you can [watch a video mockup](https://video.wixstatic.com/video/7fdafe_995f3a3f3b844b42b8bedfd18ab2d5c2/720p/mp4/file.mp4)
+The repo is private but you can [watch a demo](https://video.wixstatic.com/video/7fdafe_995f3a3f3b844b42b8bedfd18ab2d5c2/720p/mp4/file.mp4)
 <div display=flex flex-direction=row flex-wrap=wrap>
 <img  height=400px src='https://static.wixstatic.com/media/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.png/v1/fill/w_847,h_827,al_c,q_90/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.webp' alt='picture of hand holding mobile phone' />
 <div style="width: 20px;" ></div>
