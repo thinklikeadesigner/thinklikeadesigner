@@ -1,6 +1,5 @@
 
-	
-<!-- <p align='center' style="font-size: 25px">📫 Contact me!</p> -->
+
 	
 
 
