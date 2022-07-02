@@ -23,7 +23,7 @@
 
 <div style="height: 25px"></div>
 
-🐶 I'm a **dog** mom and a developer.
+🐶 Dog lover and coder
 
 ✈️ I love to travel
 
