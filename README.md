@@ -38,8 +38,56 @@
 
 ## Recent Projects
 
+### DotCot
+#### I worked with other 6 developers to create an MVP for a financial startup.
+
+----------------------
+
+👉 **[click me](https://peaceful-woodland-39661.herokuapp.com/welcome) 👈** for the live site
+
+Tools: Heroku, MongoDB, NodeJS, React
+
+Contributions
+
+-   Automating the CI/CD pipeline using Github Actions
+-   Creating and maintaining the technical design document
+-   Managing builds and trouble shooting build failures
+
+<img height='400px' src='https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c76a293-873c-4d67-87be-04c7b9a44b6d/Screen_Shot_2022-06-30_at_8.08.20_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T023658Z&X-Amz-Expires=86400&X-Amz-Signature=df232ae8caee286beb4c636339d670195c94b52030c474787adba91fc072d7b4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen%2520Shot%25202022-06-30%2520at%25208.08.20%2520PM.png%22&x-id=GetObject' />
+
+
+
+
+<img height='400px' src='https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9e5e8a3b-d57e-43d0-b8e0-a533b4f31add/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T023736Z&X-Amz-Expires=86400&X-Amz-Signature=006870ed5bd3b87ef96a030cdf29fcc7f36e737688a5a55f7018db20f78a118d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif.com-gif-maker.gif%22&x-id=GetObject' />
+
+<figcaption align = "center"><b>DotCot is a platform designed to match startups with potential investors. Investors can share a link with founders who can then create their pitch.</b></figcaption>
+
+
 
 <br />
+
+### Landing page with CMS!
+
+----------------------
+
+👉 **[click me](https://611fe2af078200c9bb89633e--apiary-project.netlify.app/#/) 👈** for the live site
+
+A landing page to market practicum students to companies. I worked with three other students on a globally distributed team.
+
+Tools: GraphQL, Contentful CMS, React, Styled-Components, Greensock Animation Platform (gsap)
+
+Key contributions:
+
+-   created content models on Contentful CMS to let the client update the content
+-   Worked with Jake to set up GraphQL queries to consume the Contentful CDN data
+-   created fixtures so my teammates could map over the content and create reusable components
+-   animated the chat bubbles section, and created some micro animations throughout the page
+-   conducted code reviews and posted how-to videos for documentation related to how to use the content models I created
+-   clarified details that weren't clear with the designer and relayed the info back to the team
+
+<img height='400px' src='https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6afde96d-e029-406a-bfb5-920ed8f50398/Screen_Shot_2021-08-20_at_12.52.17_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T023943Z&X-Amz-Expires=86400&X-Amz-Signature=d2fd99a12ab562fc5eff9a609a195bc286f9ee92ae02ba06dec9af2932db5934&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen%2520Shot%25202021-08-20%2520at%252012.52.17%2520PM.png%22&x-id=GetObject' />
+
+<br/>
 
 ### Duolyfe
 #### Duolyfe is a wellness app that encourages users to slow down and take a break
