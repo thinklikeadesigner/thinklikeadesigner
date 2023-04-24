@@ -1,4 +1,4 @@
-
+<!-- 
 
 	
 
@@ -109,14 +109,14 @@ Key contributions:
 
 It's like tamagotchi, but for well-being :)
 <!-- 👉[**CASE STUDY**](https://www.prashantarya.com/duolyfe)👈  -->
-[Watch a demo](https://video.wixstatic.com/video/7fdafe_995f3a3f3b844b42b8bedfd18ab2d5c2/720p/mp4/file.mp4) or check out the [case study](https://www.prashantarya.com/duolyfe)!
+<!-- [Watch a demo](https://video.wixstatic.com/video/7fdafe_995f3a3f3b844b42b8bedfd18ab2d5c2/720p/mp4/file.mp4) or check out the [case study](https://www.prashantarya.com/duolyfe)! -->
 <div display=flex flex-direction=row flex-wrap=wrap>
-<img  height=400px src='https://static.wixstatic.com/media/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.png/v1/fill/w_847,h_827,al_c,q_90/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.webp' alt='picture of hand holding mobile phone' />
-<div style="width: 20px;" ></div>
+<!-- <img  height=400px src='https://static.wixstatic.com/media/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.png/v1/fill/w_847,h_827,al_c,q_90/7fdafe_5053b6b1fe6a4369835790f69d85da59~mv2.webp' alt='picture of hand holding mobile phone' />
+<div style="width: 20px;" ></div> 
 <!-- <img height=400px src ="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4b0044ec-cc25-4367-985a-338f563fa3b4/Log_In.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210707%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210707T004724Z&X-Amz-Expires=86400&X-Amz-Signature=56e25444324ac3d871d719119cd022924f0e18a78d0cbce7053211070af3c1ca&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Log_In.png%22" />
 
 <img height=400px  src ="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d795016f-c738-491d-a2ee-f021b2752a38/Options.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210707%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210707T010518Z&X-Amz-Expires=86400&X-Amz-Signature=3d25da105f35ee2ed27583c2e54363c066f06723ea26b30550c0aed549655e10&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Options.png%22" />
-<img height=400px src ="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/923b6192-2c7e-4ad3-9dca-d03c0f63fce8/Edit_Buddy_Confirm.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210707%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210707T010541Z&X-Amz-Expires=86400&X-Amz-Signature=bea1e6cac9ccd2e54c024f91163d853b3652a57100c08a0b6d2fa667e6442779&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Edit_Buddy_Confirm.png%22" /> -->
+<img height=400px src ="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/923b6192-2c7e-4ad3-9dca-d03c0f63fce8/Edit_Buddy_Confirm.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210707%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210707T010541Z&X-Amz-Expires=86400&X-Amz-Signature=bea1e6cac9ccd2e54c024f91163d853b3652a57100c08a0b6d2fa667e6442779&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Edit_Buddy_Confirm.png%22" /> 
 </div>
  <br /> 
  
@@ -129,7 +129,7 @@ It's like tamagotchi, but for well-being :)
 <br />
 <br />
 <br />
-<br />
+<br /> -->
 
 <p align='center' style="font-size: 25px">📫 Contact me!</p>
 	
